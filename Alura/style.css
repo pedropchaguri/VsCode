@@ -1,4 +1,13 @@
 body{
-    background-color: purple;
-    color: yellow;
+    background-color: black;
+    color: white;
+}
+strong{
+    color:aqua;
+}
+span{
+    color:aqua
+    font-weight: bold;
+    border: 1px aqua solid  ;
+    padding: 5px;
 }

@@ -1,0 +1,10 @@
+body{
+    background-color:white;
+    color:black;
+}
+span{
+    color:purple;
+    font-weight: bold;
+    border: 3px purple solid  ;
+    padding: 10px;
+}
